@@ -1,0 +1,19 @@
+{
+  "name": "notable-crud",
+  "version": "1.0.0",
+  "description": "A boilerplate app using node, express, and mongo",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Adrian Smith",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
